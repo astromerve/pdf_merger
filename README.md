@@ -1,0 +1,1 @@
+I questioned why I should feed my personal information into online merger sites. With that thought in mind, I wrote a small Python script using PyPDF2, freeing myself from becoming a cookie feast. Additionally, for my convenience, I uploaded it here.
